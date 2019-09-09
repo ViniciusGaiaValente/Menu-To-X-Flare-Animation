@@ -1,6 +1,6 @@
-# template
+# Menu To X Flare Animation
 
-A template for Flutter projects.
+A Flutter Blank App that uses a Flare animation that goes from a "burguer menu" to a "X" icon every time the side drawer opens.
 
 ## Getting Started
 
@@ -14,4 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Menu-To-X-Flare-Animation
