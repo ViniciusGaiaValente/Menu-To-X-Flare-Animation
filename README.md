@@ -1,6 +1,6 @@
 # Menu To X Flare Animation
 
-A Flutter Blank App that uses a Flare animation that goes from a "burguer menu" to a "X" icon every time the side drawer opens.
+A blank Flutter app that uses a Flare animation going from a "burguer menu" to a "X" icon every time the side drawer opens.
 
 ## Getting Started
 
